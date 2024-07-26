@@ -29,3 +29,8 @@ Before the course, please do the following:
 - LinkedIn Learning courses ([can be accessed for free with a University of Edinburgh email](https://www.ed.ac.uk/information-services/help-consultancy/is-skills/linkedin-learning))
   - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics): An intro to Git that uses the command line.
   - [Learning GitHub](https://www.linkedin.com/learning/learning-github)
+ 
+
+  ## License
+
+  This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license

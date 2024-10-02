@@ -1,6 +1,6 @@
 # Version Control with Git and GitHub
 
-This repo contains the materials for the 2023 CDCS introductory workshop on version control. Git is a distributed version control system that keeps track of changes to your project files, which is useful for software code, particularly when collaborating with others. GitHub (the website you are viewing this on) is an online platform to manage and sync git repositories. This workshop uses [GitHub Desktop](https://desktop.github.com), an app that simplifies working with git and GitHub on your computer.
+This repo contains the materials for the CDCS introductory workshop on version control. Git is a distributed version control system that keeps track of changes to your project files, which is useful for software code, particularly when collaborating with others. GitHub (the website you are viewing this on) is an online platform to manage and sync git repositories. This workshop uses [GitHub Desktop](https://desktop.github.com), an app that simplifies working with git and GitHub on your computer.
 
 ## Getting Ready
 
